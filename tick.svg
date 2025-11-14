@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="27.93919mm"
+   height="26.222431mm"
+   viewBox="0 0 27.93919 26.222431"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="tick.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="27.93919"
+       height="26.222431"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath80">
+      <path
+         d="m 1834.9606,1189.6063 c 0,-78.2766 63.4557,-141.7323 141.7323,-141.7323 h 1503.5433 c 78.2766,0 141.7323,63.4557 141.7323,141.7323 v 1779.2126 c 0,78.2766 -63.4557,141.7323 -141.7323,141.7323 H 1976.6929 c -78.2766,0 -141.7323,-63.4557 -141.7323,-141.7323 z"
+         clip-rule="evenodd"
+         id="path80" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-52.916675,-67.468755)">
+    <path
+       id="path79"
+       d="m 2527.4036,2384.5526 -1.3631,1.3631 -271.9435,-266.4909 c -23.1731,-23.1731 -65.43,-18.4022 -93.374,10.905 l -69.5194,88.6031 c -27.9441,28.6256 -32.0334,70.8825 -8.8603,94.0556 l 402.8034,340.7813 4.0894,3.4078 14.9944,14.9944 c 16.3575,15.6759 36.1228,23.8547 55.2066,24.5362 14.3128,0 28.6256,-6.134 38.1675,-18.4021 0,0 166.9828,-289.6641 359.1834,-515.2613 201.061,-237.8653 415.7532,-430.066 415.7532,-430.066 23.1731,-27.944 18.4021,-78.3797 -10.2235,-112.4578 l -111.7762,-133.5862 c -28.6257,-34.0782 -70.8825,-38.8491 -94.0557,-10.905 0,0 -156.7594,154.7147 -335.3287,408.9375 -179.251,254.9044 -293.7535,499.5853 -293.7535,499.5853 z"
+       style="fill:#30a736;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0.02116667,0,0,0.02116667,9.1588647,36.610854)"
+       clip-path="url(#clipPath80)" />
+  </g>
+</svg>
